@@ -66,3 +66,5 @@ tech.run()
 # class Robot2(Robot):...
 
 # Robot.noSleep(student.name)
+
+
